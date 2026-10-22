@@ -1,0 +1,6 @@
+{
+  "groups": {
+    "getting-started": { "title": "Get started", "icon": "Rocket01Icon", "order": 1 },
+    "guides": { "title": "Guides", "icon": "BookOpen01Icon", "order": 2 }
+  }
+}
